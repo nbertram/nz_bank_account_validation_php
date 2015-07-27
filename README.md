@@ -33,8 +33,17 @@ Install using Composer with:
 
 Support
 -------
+
 Raise a Github ticket if you find something wrong with this:
   https://github.com/nbertram/nz_bank_account_validation_php/issues
 
 Pull requests also gratefully considered.
+
+
+Tests
+-----
+
+There are tests in PHPUnit format. Travis is running on master.
+
+[![Build Status](https://travis-ci.org/nbertram/nz_bank_account_validation_php.svg)](https://travis-ci.org/nbertram/nz_bank_account_validation_php)
 
