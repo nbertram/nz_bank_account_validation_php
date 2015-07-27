@@ -7,5 +7,5 @@ php:
   - 5.3
   - hhvm
 install: composer install
-script: phpunit tests
+script: vendor/bin/phpunit tests
 
