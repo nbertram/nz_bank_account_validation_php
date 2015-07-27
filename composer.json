@@ -10,7 +10,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "NeilNZ\\NZBankAccountValidation\\Test\\", "tests"
+            "NeilNZ\\NZBankAccountValidation\\Test\\": "tests"
         }
     },
     "require-dev": {
