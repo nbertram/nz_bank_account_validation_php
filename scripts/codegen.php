@@ -10,7 +10,7 @@
  *
  * @author Neil Bertram <neil@fishy.net.nz>
  * @copyright Copyright(c) 2015 Neil Bertram
- * @link https://github.com/rchouinard/rych-otp
+ * @link https://github.com/nbertram/nz_bank_account_validation_php
  * @license GPL v3 or later, see LICENSE
  */
 
